@@ -19,7 +19,7 @@ body {
     display: grid;
     place-content: center;
     height: 100vh;
-    background: var(--LightGray);
+    background: var(--LightGrayishBlue);
     font-family: var(--Barlow);
 }
 
